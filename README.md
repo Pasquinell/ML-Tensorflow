@@ -1,5 +1,5 @@
 # Machine Learning with Tensorflow
-<<<<<<< HEAD
+
 
 The purpose of this project is to help data science and machine learning students how to use Tensorflow to solve common machine learning problems. Is common to find examples of tensorflow applied to convolutional and recurrent neural networks for solving problems of image recognition and natural language processing. But tensorflow can be also implemented in a day-to-day machine learning problems.
 
@@ -24,12 +24,4 @@ If you don't want to install tensorflow in your computer I suggest downloading D
 ```shell
 docker run -it -p 8888:8888 gcr.io/tensorflow/tensorflow
 ```
-=======
 
-The purpose of this project is to help data science and machine learning students how to use Tensorflow to solve common machine learning problems. Is common to find examples of tensorflow applied to convolutional and recurrent neural networks for solving problems of image recognition and natural language processing. But tensorflow can be also implemented in a day-to-day machine learning problems.
-
-In this opportunity, we will learn how to implement logistic regression with sigmoid function and softmax, how to implement stochastic gradient descent and implement L2Loss and dropout regularization. On top of this, the data preprocessing will be implemented with numpy, pandas and sklearn. For this we will use the titanic dataset from [kaggle titanic challenge](https://www.kaggle.com/c/titanic/data)
-
-(Under construction. The code is functional and can be immediately executed.)
-
->>>>>>> 7ce804cbd437755206709868681f755fc9a34acd
